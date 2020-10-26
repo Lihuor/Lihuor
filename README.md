@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/Lihuor/Lihuor/readme_header.png "Header")](https://some-url.dev/)
+[![Header](./icons/Github%20page.jpg "Header")](https://github.com/Lihuor)
+
 ### Hi there 👋
 
 I am a full-time full stack web developer base in Melbourne, Australia. My passionate in computer science has enable me to love coding, building application and fixing bugs and problem. Within six months of bootcamp course, I have achieved almost 50 repositories from basic HTML to advanced MERN Stack and in the next couple weeks, more applications will be developed and released. If you have any questions regarding any of my application, please feel free to reach me via the social media below.
@@ -15,7 +16,9 @@ I am a full-time full stack web developer base in Melbourne, Australia. My passi
 <img src="./icons/full%20stack%20developer.gif" width="55%">
 
 ---
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lihuor&show_icons=true&theme=dracula)](https://github.com/Lihuor/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lihuor&layout=compact)](https://github.com/Lihuor/github-readme-stats)
 
 <!--
 **Lihuor/Lihuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
