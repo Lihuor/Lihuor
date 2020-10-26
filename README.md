@@ -9,9 +9,11 @@ I am a full-time full stack web developer base in Melbourne, Australia. My passi
 </p>
 
 ---
-<img src="./icons/web%20design.gif" width="50%">
 
-<img src="./icons/full%20stack%20developer.gif" width="50%">
+<img src="./icons/web%20design.gif" width="35%">
+
+<img src="./icons/full%20stack%20developer.gif" width="61%">
+
 ---
 
 
